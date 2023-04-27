@@ -1,6 +1,6 @@
 # Calculator
 
-Some Snapshots
+
 Dark Theme 
 ![ss1](https://user-images.githubusercontent.com/72803817/234968685-54f39835-cf60-4d80-9d8a-ab383a2e7cbf.png)
 
